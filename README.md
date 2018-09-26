@@ -1,6 +1,10 @@
 # directed
 
-This repository contains the reference implementation in Python of the forward-backward embedding.
+This repository contains the reference implementation in Python of the forward-backward embedding, described in the paper:
+
+**The Forward-Backward Embedding of Directed Graphs**
+
+submitted to ICLR 2019.
 
 ## Experiments
 
