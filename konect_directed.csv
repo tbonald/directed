@@ -1,0 +1,35 @@
+Code;Name;Filename
+AD;Advogato;advogato
+Am;Amazon (TWEB);amazon0601
+PHc;arXiv hep-ph;cit-HepPh
+BAr;Baidu related pages;zhishi-baidu-relatedpages
+BS;Berkeley/Stanford;web-BerkStan
+Mg;Blogs;moreno_blogs
+CH;Chess;chess
+CS;CiteSeer;citeseer
+CC;Cora citation;subelj_cora
+Pi;DBLP;dblp-cite
+DB;DBpedia;dbpedia-all
+DG;Digg;munmun_digg_reply
+DF;Digg friends;digg-friends
+EA;Edinburgh Associative Thesaurus;eat
+EN;Enron;enron
+ES;Epinions;soc-Epinions1
+Ow;Facebook wall posts;facebook-wosn-wall
+FL;Flickr;flickr-growth
+GN;Gnutella;p2p-Gnutella31
+GO;Google;web-Google
+HUr;Hudong related pages;zhishi-hudong-relatedpages
+MS;Human protein (Stelzl);maayan-Stelzl
+DJ;JDK dependency;subelj_jdk
+LI;Libimseti.cz;libimseti
+LX;Linux;linux
+LJ;LiveJournal;soc-LiveJournal1
+ND;Notre Dame;web-NotreDame
+PL;Pokec;soc-pokec-relationships
+SD;Slashdot threads;slashdot-threads
+SF;Stanford;web-Stanford
+PC;US patents;patentcite
+DL;Wikipedia, English;dbpedia-link
+YD;Yahoo advertisers;lasagne-yahoo
+LY;Youtube links;youtube-links

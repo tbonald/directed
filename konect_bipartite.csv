@@ -1,0 +1,25 @@
+Code;Name;Filename
+AM;Actor movies;actor-movie
+AR;Amazon ratings;amazon-ratings
+AC;arXiv cond-mat;opsahl-collaboration
+But;BibSonomy user–tag;bibsonomy-2ut
+BX;BookCrossing (implicit);bookcrossing_full-rating
+Cut;CiteULike user–tag;citeulike-ut
+DV;Digg votes;digg-votes
+Dl;Discogs;discogs_affiliation
+ER;Epinions product ratings;epinions-rating
+FG;Flickr;flickr-groupmemberships
+GH;Github;github
+J1;Jester 100;jester1
+Ls;Last.fm song;lastfm_song
+LK;Linux kernel mailing list threads;lkml_person-thread
+M3;MovieLens 10M;movielens-10m_rating
+RE;Reuters;reuters
+SO;Stack Overflow;stackexchange-stackoverflow
+TM;Teams;dbpedia-team
+DBT;TV Tropes;dbtropes-feature
+Wut;Twitter user–hashtag;munmun_twitterex_ut
+Vut;vi.sualize.us user–tag;pics_ut
+ben;Wikibooks (en);edit-enwikibooks
+qen;Wikiquote (en);edit-enwikiquote
+YG;YouTube;youtube-groupmemberships
